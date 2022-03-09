@@ -1,0 +1,1 @@
+C:\Users\Rodrigo Barbuscia\IdeaProjects\projeto_Calculadora\build\classes\kotlin\main\Calc$Companion.class;C:\Users\Rodrigo Barbuscia\IdeaProjects\projeto_Calculadora\build\classes\kotlin\main\Calc.class;C:\Users\Rodrigo Barbuscia\IdeaProjects\projeto_Calculadora\build\classes\kotlin\main\CalculadoraKt.class
